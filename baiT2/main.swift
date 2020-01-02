@@ -365,7 +365,7 @@ while !kiemtradieukien(sonhap: d) {
 }
     xeploai(sonhap: d)
 //Bài 2:
-timSoMin(m: <#T##Int#>)
+timSoMin(m: 4)
 //Bài 3:
 mang3()
 //Bài 4:
